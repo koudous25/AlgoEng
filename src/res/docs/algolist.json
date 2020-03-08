@@ -1,0 +1,98 @@
+[
+    [
+        [
+            {
+                "name": "Tri par insertion",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri à bulle",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri gourmand",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            }
+        ],
+        [
+            {
+                "name": "Raphson",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Djistra",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Yorithme",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "name": "Tri par insertion",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri à bulle",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri gourmand",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            }
+        ],
+        [
+            {
+                "name": "Tri par insertion",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri à bulle",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            },
+            {
+                "name": "Tri gourmand",
+                "partid": "part1",
+                "chapterid": "chapter1",
+                "id": "part1.chapter1.tri",
+                "shortname": "tri"
+            }
+        ]
+    ]
+]

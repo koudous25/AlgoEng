@@ -1,0 +1,1 @@
+**Utilisé plutôt Newton-Raphson**
