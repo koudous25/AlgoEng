@@ -4,7 +4,8 @@ module.exports = {
     electronBuilder: {
       builderOptions: {
         // options placed here will be merged with default configuration and passed to electron-builder
-        extraResources: ['src/res/']
+        extraResources: ['src/res/'],
+        publish: ['github']
       }
     }
   }

@@ -5,6 +5,10 @@ import {
   createProtocol,
   /* installVueDevtools */
 } from 'vue-cli-plugin-electron-builder/lib'
+
+import { autoUpdater } from "electron-updater"
+
+
 const isDevelopment = process.env.NODE_ENV !== 'production'
 
 // Keep a global reference of the window object, if you don't, the window will
@@ -19,7 +23,7 @@ function createWindow () {
   win = new BrowserWindow({
      width: 1080,
     height: 800,
-    autoHideMenuBar: false,
+    autoHideMenuBar: true,
     frame: true,
     show: false,
     center: true,
@@ -39,6 +43,7 @@ function createWindow () {
     createProtocol('app')
     // Load the index.html when not in development
     win.loadURL('app://./index.html')
+    autoUpdater.checkForUpdatesAndNotify()
   }
 
   

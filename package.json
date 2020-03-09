@@ -7,8 +7,11 @@
     "email": "ensgmmbj@webstudycorner.com",
     "url": "https://github.com/EnsgmmBj"
   },
+  "release": "build",
+  "repository": "https://github.com/Dahkenangnon/AlgoEng", 
   "private": true,
   "scripts": {
+    "electron:generate-icons": "electron-icon-builder --input=./public/icon.png --output=build --flatten",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
