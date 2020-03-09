@@ -1,4 +1,0 @@
-# Programm AlgoEng
-
-
-    

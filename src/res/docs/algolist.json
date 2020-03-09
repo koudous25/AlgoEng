@@ -6,21 +6,21 @@
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri à bulle",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri gourmand",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             }
         ],
         [
@@ -29,21 +29,21 @@
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Djistra",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Yorithme",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             }
         ]
     ],
@@ -54,21 +54,21 @@
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri à bulle",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri gourmand",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             }
         ],
         [
@@ -77,21 +77,21 @@
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri à bulle",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             },
             {
                 "name": "Tri gourmand",
                 "partid": "part1",
                 "chapterid": "chapter1",
                 "id": "part1.chapter1.tri",
-                "shortname": "tri"
+                "shortname": "insertionsort"
             }
         ]
     ]
