@@ -15,16 +15,14 @@ export default new Router({
     {
       path: "/",
       name: "home",
-      component: HomePage,
-
+      component: HomePage
     },
     {
       path: "/part/:part",
-      name: "part",      
-      component: PartPage ,
+      name: "part",
+      component: PartPage,
       props: true
-     },
-    
+    }
   ],
   scrollBehavior: to => {
     if (to.hash) {
@@ -34,4 +32,3 @@ export default new Router({
     }
   }
 });
- 
