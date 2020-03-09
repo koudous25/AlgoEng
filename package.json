@@ -2,14 +2,10 @@
   "name": "AlgoEng",
   "version": "0.1.0",
   "description": "Les algorithmes comme outils de l'ingénieur.",
-  "author": {
-    "name": "EnsgmmBj's community",
-    "email": "ensgmmbj@webstudycorner.com",
-    "url": "https://github.com/EnsgmmBj"
-  },
-  "release": "build",
-  "repository": "https://github.com/Dahkenangnon/AlgoEng", 
-  "private": true,
+  "author": "EnsgmmBj's community",
+  "repository": "https://github.com/EnsgmmBj/AlgoEng", 
+  "productName": "AlgoEng",
+  "private": false,
   "scripts": {
     "electron:generate-icons": "electron-icon-builder --input=./public/icon.png --output=build --flatten",
     "serve": "vue-cli-service serve",
