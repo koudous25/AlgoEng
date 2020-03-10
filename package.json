@@ -1,6 +1,6 @@
 {
   "name": "AlgoEng",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "Les algorithmes comme outils de l'ingénieur.",
   "author": "EnsgmmBj's community",
@@ -16,7 +16,6 @@
   },
   "main": "background.js",
   "dependencies": {
-    "about-window": "^1.13.2",
     "core-js": "^3.6.4",
     "electron-store": "^5.1.1",
     "electron-updater": "^2.2.4",

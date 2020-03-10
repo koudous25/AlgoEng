@@ -128,7 +128,7 @@ export default {
     const pseudoPath = path.join(
       // eslint-disable-next-line
       isBuild ? __dirname : __static,
-      "../src/res/docs/" +
+      "../src/res/docs/"+this.algo.partid+"/"+this.algo.chapterid+"/" +
         this.algo.partid +
         "." +
         this.algo.chapterid +
@@ -144,7 +144,7 @@ export default {
     const contextPath = path.join(
       // eslint-disable-next-line
       isBuild ? __dirname : __static,
-      "../src/res/docs/" +
+      "../src/res/docs/" +this.algo.partid+"/"+this.algo.chapterid+"/"+
         this.algo.partid +
         "." +
         this.algo.chapterid +
@@ -160,7 +160,7 @@ export default {
     const limitsSourcePath = path.join(
       // eslint-disable-next-line
       isBuild ? __dirname : __static,
-      "../src/res/docs/" +
+      "../src/res/docs/" +this.algo.partid+"/"+this.algo.chapterid+"/"+
         this.algo.partid +
         "." +
         this.algo.chapterid +
