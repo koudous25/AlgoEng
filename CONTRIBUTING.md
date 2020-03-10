@@ -52,6 +52,17 @@ git pull origin dev-dev
 
 ```
 
-**Note**: Merci de poser toutes question dans le groupe whatsapp
+**Important**: 
+    - La première fois que vous utiliser la commande **git**, il se pourrait que l'on vous demande vos identifiants github, veuillez simplement les fournit et pour que git vous attribue votre travail, faites:
+    - ```
+    git config
+    - Tester vos code avant de soumettre
+    - Tout commit doit être fait sur la branch dev-dev
+    - Le projet comporte trois branches _(master, dev et dev-dev)_
+    - **master**: est la branche principale de laquelle l'éxecutable (les releases) est générée,
+    cette branch ne doit donc pas comporter des bug et doit être prêt à déployer. N'y toucher donc pas
+    - **dev**: Cette branche est destinée au developpement pour l'équipe de developpement de l'appli bureau, n'y toucher pas
+    - **dev--dev**: branch de dévelppement vous pouvez tester tous ce que vous voulez, c'est sur cette branche que nous travailleront
+
 
 
