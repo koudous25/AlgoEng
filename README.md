@@ -3,7 +3,7 @@ Les algorithmes comme outils de l'ingénieur.
 
 _________________________________________________________________________
    
-[Lir par ici l'explication sur la structure des dossiers pour mieux comprendre](DOCS.md)
+[Lire par ici l'explication sur la structure des dossiers pour mieux comprendre](DOCS.md)
 
 
 [Voir la liste des équipes de contributeurs](CONTRIBUTORS.md)
