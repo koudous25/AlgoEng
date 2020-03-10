@@ -1,39 +1,18 @@
 # algoeng
 Les algorithmes comme outils de l'ingénieur.
 
-# Equipes:
-
-## Equipes de developpement de l'application Bureau
-   - Justin Dah-kenangnon 
-
-## Ecrirture en Mardown des pseudos code 
+_________________________________________________________________________
+   
+[Lir par ici l'explication sur la structure des dossiers pour mieux comprendre](DOCS.md)
 
 
-## Equipe  d'implementation: 
+[Voir la liste des équipes de contributeurs](CONTRIBUTORS.md)
 
-### Javacript:
-
-### Matlab
-
-### Python
-
-
-### C
-
-### C++
-
-
-### Dart
-
-
-### C-sharp
-
-
-### Java
-
+[Lisez enfin cette page pour mieux contribuer](CONTRIBUTING.md)
 
 _________________________________________________________________________
-Copyright (c) EnsgmmBj's community
+MIT License
+Copyright (c) EnsgmmBj's community (Les étudiants de l'ENSGMM Abomey-Bénin)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
