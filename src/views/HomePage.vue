@@ -7,7 +7,7 @@
             <v-icon>mdi-epsilon</v-icon>
           </v-app-bar-nav-icon>
 
-          <v-toolbar-title>AlgoEng - Les algorithmes comme outils de l'ingénieur.</v-toolbar-title>
+          <v-toolbar-title align="center">AlgoEng - Les algorithmes comme outils de l'ingénieur. <span class="red--text">[Version Demo !]</span></v-toolbar-title>
 
           <v-spacer></v-spacer>
 
