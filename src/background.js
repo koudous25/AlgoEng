@@ -57,6 +57,54 @@ function createWindow() {
   });
 }
 
+
+function updateMe(){
+
+  /**
+   * Autoupdater events
+   */
+
+  autoUpdater.on('checking-for-update', () => {
+    console.log('Checking for update');
+  });
+
+  autoUpdater.on('error', (error) => {
+    console.error('Error while checking for updates', error);
+  });
+
+  autoUpdater.on('update-available', (updateInfo) => {
+    alert('Mise à jour disponible: ', updateInfo);
+  });
+
+  autoUpdater.on('update-not-available', (updateInfo) => {
+    console.log('No updates are available', updateInfo);
+  });
+/* 
+  autoUpdater.on('download-progress', (progressInfo) => {
+    let logMessage = `speed ${progressInfo.bytesPerSecond} b/s; progress ${progressInfo.percent}%; downloaded ${progressInfo.transferred} out of ${progressInfo.total} bytes`;
+
+    logger.log(logMessage);
+  }); */
+
+  autoUpdater.on('update-downloaded', (updateInfo) => {
+    alert('Redémarrage nécessaire pour installer les mise à jour: ', updateInfo);
+
+    /* Notify user about ready to be installed update */
+    // ...
+
+    /* Or force quit app and install update */
+    autoUpdater.quitAndInstall();
+  });
+
+  /* Check for updates manually */
+  autoUpdater.checkForUpdates();
+
+  /* Check updates every 10 minutes */
+  setInterval(() => {
+    autoUpdater.checkForUpdates();
+  }, 10 * 60 * 1000);
+}
+
 // Quit when all windows are closed.
 app.on("window-all-closed", () => {
   // On macOS it is common for applications and their menu bar
@@ -92,6 +140,8 @@ app.on("ready",  () => {/*
     // }
   } */
   createWindow();
+
+  updateMe();
   
 });
 
@@ -109,3 +159,6 @@ if (isDevelopment) {
     });
   }
 }
+
+
+
