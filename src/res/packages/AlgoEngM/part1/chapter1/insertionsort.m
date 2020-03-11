@@ -1,4 +1,3 @@
-i = 0
-for i =0:1:10
-disp(i)
-end
+x = -10:0.01:10
+y =sin(x)
+plot(x,y)
