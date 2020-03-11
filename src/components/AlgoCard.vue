@@ -36,7 +36,7 @@
           <v-col cols="12">
             <v-card color="blue" dark outlined>
               <v-card-title class="display-6">
-                <v-col class="d-flex" cols="12" sm="6">Code source</v-col>
+                <v-col class="d-flex" cols="12" sm="6">Implémentation</v-col>
                 <v-col class="d-flex" cols="12" sm="6">
                   <v-select
                     v-model="selectedlanguage"
