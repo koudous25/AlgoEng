@@ -1,48 +1,58 @@
 [
     [
+        [],
         [
             {
                 "name": "Tri par insertion",
                 "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "chapterid": "chapter2",
+                "id": "part1.chapter2.insertionsort",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Tri à bulle",
+                "name": "Tri par fusion",
                 "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
-                "shortname": "insertionsort"
-            },
-            {
-                "name": "Tri gourmand",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "chapterid": "chapter2",
+                "id": "part1.chapter2.tri",
                 "shortname": "insertionsort"
             }
         ],
+        [],
+        [],
         [
             {
-                "name": "Raphson",
+                "name": "Embauche sécrétaire",
                 "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "chapterid": "chapter5",
+                "id": "part1.chapter5.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Djistra",
+                "name": "Embauche sécrétaire randomisé",
                 "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "chapterid": "chapter5",
+                "id": "part1.chapter5.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Yorithme",
+                "name": "Permute par tri",
                 "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "chapterid": "chapter5",
+                "id": "part1.chapter5.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Randomisation directe",
+                "partid": "part1",
+                "chapterid": "chapter5",
+                "id": "part1.chapter5.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Maximum en ligne",
+                "partid": "part1",
+                "chapterid": "chapter5",
+                "id": "part1.chapter5.tri",
                 "shortname": "insertionsort"
             }
         ]
@@ -50,47 +60,606 @@
     [
         [
             {
-                "name": "Tri par insertion",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Entasser max",
+                "partid": "part2",
+                "chapterid": "chapter6",
+                "id": "part2.chapter6.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Tri à bulle",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Construire tas max",
+                "partid": "part2",
+                "chapterid": "chapter6",
+                "id": "part2.chapter6.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Tri gourmand",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Tri par tas",
+                "partid": "part2",
+                "chapterid": "chapter6",
+                "id": "part2.chapter6.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Extraire max tas",
+                "partid": "part2",
+                "chapterid": "chapter6",
+                "id": "part2.chapter6.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Augmenter clé tas",
+                "partid": "part2",
+                "chapterid": "chapter6",
+                "id": "part2.chapter6.tri",
                 "shortname": "insertionsort"
             }
         ],
         [
             {
-                "name": "Tri par insertion",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Tri rapide",
+                "partid": "part2",
+                "chapterid": "chapter7",
+                "id": "part2.chapter7.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Tri à bulle",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Partition",
+                "partid": "part2",
+                "chapterid": "chapter7",
+                "id": "part2.chapter7.tri",
                 "shortname": "insertionsort"
             },
             {
-                "name": "Tri gourmand",
-                "partid": "part1",
-                "chapterid": "chapter1",
-                "id": "part1.chapter1.tri",
+                "name": "Partition randomisée",
+                "partid": "part2",
+                "chapterid": "chapter7",
+                "id": "part2.chapter7.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Tri rapide randomisé",
+                "partid": "part2",
+                "chapterid": "chapter7",
+                "id": "part2.chapter7.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Tri par dénombrement",
+                "partid": "part2",
+                "chapterid": "chapter8",
+                "id": "part2.chapter8.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Tri par paquets",
+                "partid": "part2",
+                "chapterid": "chapter8",
+                "id": "part2.chapter8.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Minimum",
+                "partid": "part2",
+                "chapterid": "chapter9",
+                "id": "part2.chapter9.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Sélection randomisée",
+                "partid": "part2",
+                "chapterid": "chapter9",
+                "id": "part2.chapter9.tri",
+                "shortname": "insertionsort"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "name": "Pile vide",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Empiler",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Dépiler",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Enfiler",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Défiler",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Recherche dans une liste chainée",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion dans une liste chainée",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression dans une liste chainée",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression dans une liste chainée avec sentinelle",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression dans une liste chainée sans sentinelle",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Recherche dans une liste chainée avec sentinelle",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion dans une liste chainée avec sentinelle",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Allocation d'objet",
+                "partid": "part3",
+                "chapterid": "chapter10",
+                "id": "part3.chapter10.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Insertion dans une table de hachage",
+                "partid": "part3",
+                "chapterid": "chapter11",
+                "id": "part3.chapter11.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Recherche dans une table de hachage",
+                "partid": "part3",
+                "chapterid": "chapter11",
+                "id": "part3.chapter11.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Parcours infixe",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Recherche de noeud dans un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Recherche itératif de noeud dans un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Minimu d'un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Maximum d'un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Successeur d'un nœud d’un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'un noeud dans un arbre binaire de recherche",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Rotation gauche",
+                "partid": "part3",
+                "chapterid": "chapter13",
+                "id": "part3.chapter13.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion d'un noeud dans un arbre rouge-noir",
+                "partid": "part3",
+                "chapterid": "chapter13",
+                "id": "part3.chapter13.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion d'un noeud dans un arbre rouge-noir corrigé",
+                "partid": "part3",
+                "chapterid": "chapter13",
+                "id": "part3.chapter13.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'un noeud dans un arbre rouge-noir",
+                "partid": "part3",
+                "chapterid": "chapter13",
+                "id": "part3.chapter13.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'un noeud dans un arbre rouge-noir corrigé",
+                "partid": "part3",
+                "chapterid": "chapter13",
+                "id": "part3.chapter13.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Récupérer le rang d'un noeud",
+                "partid": "part3",
+                "chapterid": "chapter14",
+                "id": "part3.chapter14.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Déterminer le rang d'un noeud",
+                "partid": "part3",
+                "chapterid": "chapter14",
+                "id": "part3.chapter14.tri",
+                "shortname": "insertionsort"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "name": "Plus rapide chemin",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Afficher poste",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Multiplication de matrices",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Ordre chaine matrices",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Affichage parenthésage optimal",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Chaine matrices recursif",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Mémorisation chaine matrices",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Récupérer chaine",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Calcul de la longueur d’une PLS",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Construction d’une PLS",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Arbre binaire de recherche optimale",
+                "partid": "part4",
+                "chapterid": "chapter15",
+                "id": "part4.chapter15.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Choix d'activités récursifs",
+                "partid": "part4",
+                "chapterid": "chapter16",
+                "id": "part4.chapter16.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Choix d'activités glouton",
+                "partid": "part4",
+                "chapterid": "chapter16",
+                "id": "part4.chapter16.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Codage de Huffman",
+                "partid": "part4",
+                "chapterid": "chapter16",
+                "id": "part4.chapter16.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Algorithmes gloutons sur un matroïde pondéré",
+                "partid": "part4",
+                "chapterid": "chapter16",
+                "id": "part4.chapter16.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Dépilement multiple de pile",
+                "partid": "part4",
+                "chapterid": "chapter17",
+                "id": "part4.chapter17.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Incrémentation d’un compteur binaire",
+                "partid": "part4",
+                "chapterid": "chapter17",
+                "id": "part4.chapter17.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insérer une table",
+                "partid": "part4",
+                "chapterid": "chapter17",
+                "id": "part4.chapter17.tri",
+                "shortname": "insertionsort"
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "name": "Recherche dans un B-Arbre",
+                "partid": "part5",
+                "chapterid": "chapter18",
+                "id": "part5.chapter18.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Création d'un B-Arbre vide",
+                "partid": "part5",
+                "chapterid": "chapter18",
+                "id": "part5.chapter18.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Partage de nœud dans un B-arbre",
+                "partid": "part5",
+                "chapterid": "chapter18",
+                "id": "part5.chapter18.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion d’une clé dans un B-arbre en une seule passe descendante",
+                "partid": "part5",
+                "chapterid": "chapter18",
+                "id": "part5.chapter18.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion B-arbre incomplet",
+                "partid": "part5",
+                "chapterid": "chapter18",
+                "id": "part5.chapter18.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Trouver la clé minimale d'un tas binominal",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Union de deux tas binominaux",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Fusion de deux tas binominaux",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Insertion d’un nœud dans un tas binominal",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Extraction du nœud de clé minimale",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Diminution d’une clé",
+                "partid": "part5",
+                "chapterid": "chapter19",
+                "id": "part5.chapter19.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Insertion d’un nœud dans un tas de Finaboci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Union de deux tas de Fibonacci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Extraction du nœud minimal",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Consolider un tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Relier tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Diminution d'une clé de tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'une clé de tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'une clé de tas de Finabocci en cascade",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            },
+            {
+                "name": "Suppression d'un noeud de tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter20",
+                "id": "part5.chapter20.tri",
+                "shortname": "insertionsort"
+            }
+        ],
+        [
+            {
+                "name": "Suppression d'un noeud de tas de Finabocci",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.tri",
                 "shortname": "insertionsort"
             }
         ]
