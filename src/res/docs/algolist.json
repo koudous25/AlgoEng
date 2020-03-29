@@ -6,15 +6,22 @@
                 "name": "Tri par insertion",
                 "partid": "part1",
                 "chapterid": "chapter2",
-                "id": "part1.chapter2.insertionsort",
-                "shortname": "insertionsort"
+                "id": "part1.chapter2.tri_insertion",
+                "shortname": "tri_insertion"
+            },
+            {
+                "name": "Diviser pour règner",
+                "partid": "part1",
+                "chapterid": "chapter2",
+                "id": "part1.chapter2.fusion",
+                "shortname": "fusion"
             },
             {
                 "name": "Tri par fusion",
                 "partid": "part1",
                 "chapterid": "chapter2",
-                "id": "part1.chapter2.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter2.tri_fusion",
+                "shortname": "tri_fusion"
             }
         ],
         [],
@@ -24,36 +31,36 @@
                 "name": "Embauche sécrétaire",
                 "partid": "part1",
                 "chapterid": "chapter5",
-                "id": "part1.chapter5.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter5.embauche_secretaire",
+                "shortname": "embauche_secretaire"
             },
             {
                 "name": "Embauche sécrétaire randomisé",
                 "partid": "part1",
                 "chapterid": "chapter5",
-                "id": "part1.chapter5.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter5.embauche_secretaire_randomise",
+                "shortname": "embauche_secretaire_randomise"
             },
             {
                 "name": "Permute par tri",
                 "partid": "part1",
                 "chapterid": "chapter5",
-                "id": "part1.chapter5.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter5.permute_par_tri",
+                "shortname": "permute_par_tri"
             },
             {
                 "name": "Randomisation directe",
                 "partid": "part1",
                 "chapterid": "chapter5",
-                "id": "part1.chapter5.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter5.randomisation_directe",
+                "shortname": "randomisation_directe"
             },
             {
                 "name": "Maximum en ligne",
                 "partid": "part1",
                 "chapterid": "chapter5",
-                "id": "part1.chapter5.tri",
-                "shortname": "insertionsort"
+                "id": "part1.chapter5.maximum_en_ligne",
+                "shortname": "maximum_en_ligne"
             }
         ]
     ],
@@ -63,36 +70,36 @@
                 "name": "Entasser max",
                 "partid": "part2",
                 "chapterid": "chapter6",
-                "id": "part2.chapter6.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter6.entasser_max",
+                "shortname": "entasser_max"
             },
             {
                 "name": "Construire tas max",
                 "partid": "part2",
                 "chapterid": "chapter6",
-                "id": "part2.chapter6.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter6.construire_tas_max",
+                "shortname": "construire_tas_max"
             },
             {
                 "name": "Tri par tas",
                 "partid": "part2",
                 "chapterid": "chapter6",
-                "id": "part2.chapter6.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter6.tri_par_tas",
+                "shortname": "tri_par_tas"
             },
             {
                 "name": "Extraire max tas",
                 "partid": "part2",
                 "chapterid": "chapter6",
-                "id": "part2.chapter6.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter6.extraire_max_tas",
+                "shortname": "extraire_max_tas"
             },
             {
                 "name": "Augmenter clé tas",
                 "partid": "part2",
                 "chapterid": "chapter6",
-                "id": "part2.chapter6.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter6.augmenter_cle_tas",
+                "shortname": "augmenter_cle_tas"
             }
         ],
         [
@@ -100,29 +107,29 @@
                 "name": "Tri rapide",
                 "partid": "part2",
                 "chapterid": "chapter7",
-                "id": "part2.chapter7.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter7.tri_rapide",
+                "shortname": "tri_rapide"
             },
             {
                 "name": "Partition",
                 "partid": "part2",
                 "chapterid": "chapter7",
-                "id": "part2.chapter7.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter7.partition",
+                "shortname": "partition"
             },
             {
                 "name": "Partition randomisée",
                 "partid": "part2",
                 "chapterid": "chapter7",
-                "id": "part2.chapter7.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter7.partition_randomise",
+                "shortname": "partition_randomise"
             },
             {
                 "name": "Tri rapide randomisé",
                 "partid": "part2",
                 "chapterid": "chapter7",
-                "id": "part2.chapter7.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter7.tri_rapide_randomise",
+                "shortname": "tri_rapide_randomise"
             }
         ],
         [
@@ -130,15 +137,15 @@
                 "name": "Tri par dénombrement",
                 "partid": "part2",
                 "chapterid": "chapter8",
-                "id": "part2.chapter8.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter8.tri_denombrement",
+                "shortname": "tri_denombrement"
             },
             {
                 "name": "Tri par paquets",
                 "partid": "part2",
                 "chapterid": "chapter8",
-                "id": "part2.chapter8.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter8.tri_paquets",
+                "shortname": "tri_paquets"
             }
         ],
         [
@@ -146,15 +153,15 @@
                 "name": "Minimum",
                 "partid": "part2",
                 "chapterid": "chapter9",
-                "id": "part2.chapter9.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter9.minimum",
+                "shortname": "minimum"
             },
             {
                 "name": "Sélection randomisée",
                 "partid": "part2",
                 "chapterid": "chapter9",
-                "id": "part2.chapter9.tri",
-                "shortname": "insertionsort"
+                "id": "part2.chapter9.selection_randomisee",
+                "shortname": "selection_randomisee"
             }
         ]
     ],
@@ -164,92 +171,92 @@
                 "name": "Pile vide",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
+                "id": "part3.chapter10.pile_vide",
                 "shortname": "insertionsort"
             },
             {
                 "name": "Empiler",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.empiler",
+                "shortname": "empiler"
             },
             {
                 "name": "Dépiler",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.depiler",
+                "shortname": "depiler"
             },
             {
                 "name": "Enfiler",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.enfiler",
+                "shortname": "enfiler"
             },
             {
                 "name": "Défiler",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.defiler",
+                "shortname": "defiler"
             },
             {
                 "name": "Recherche dans une liste chainée",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.recherche_liste",
+                "shortname": "recherche_liste"
             },
             {
                 "name": "Insertion dans une liste chainée",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.inserer_liste",
+                "shortname": "inserer_liste"
             },
             {
                 "name": "Suppression dans une liste chainée",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.supprimer_liste",
+                "shortname": "supprimer_liste"
             },
             {
                 "name": "Suppression dans une liste chainée avec sentinelle",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.supprimer_liste_1",
+                "shortname": "supprimer_liste_1"
             },
             {
                 "name": "Suppression dans une liste chainée sans sentinelle",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.supprimer_liste_2",
+                "shortname": "supprimer_liste_2"
             },
             {
                 "name": "Recherche dans une liste chainée avec sentinelle",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.recherche_liste_1",
+                "shortname": "recherche_liste_1"
             },
             {
                 "name": "Insertion dans une liste chainée avec sentinelle",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.inserer_liste_1",
+                "shortname": "inserer_liste_1"
             },
             {
                 "name": "Allocation d'objet",
                 "partid": "part3",
                 "chapterid": "chapter10",
-                "id": "part3.chapter10.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter10.allouer_objet",
+                "shortname": "allouer_objet"
             }
         ],
         [
@@ -257,15 +264,15 @@
                 "name": "Insertion dans une table de hachage",
                 "partid": "part3",
                 "chapterid": "chapter11",
-                "id": "part3.chapter11.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter11.inserer_hachage",
+                "shortname": "inserer_hachage"
             },
             {
                 "name": "Recherche dans une table de hachage",
                 "partid": "part3",
                 "chapterid": "chapter11",
-                "id": "part3.chapter11.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter11.rechercher_hachage",
+                "shortname": "rechercher_hachage"
             }
         ],
         [
@@ -273,50 +280,57 @@
                 "name": "Parcours infixe",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.parcours_infixe",
+                "shortname": "parcours_infixe"
             },
             {
                 "name": "Recherche de noeud dans un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_recherche",
+                "shortname": "arbre_recherche"
             },
             {
                 "name": "Recherche itératif de noeud dans un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_recherche_iteratif",
+                "shortname": "arbre_recherche_iteratif"
             },
             {
                 "name": "Minimu d'un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_minimum",
+                "shortname": "arbre_minimum"
             },
             {
                 "name": "Maximum d'un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_maximum",
+                "shortname": "arbre_maximum"
             },
             {
                 "name": "Successeur d'un nœud d’un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_successeur",
+                "shortname": "arbre_successeur"
+            },
+            {
+                "name": "Arbre insérer",
+                "partid": "part3",
+                "chapterid": "chapter12",
+                "id": "part3.chapter12.arbre_inserer",
+                "shortname": "arbre_inserer"
             },
             {
                 "name": "Suppression d'un noeud dans un arbre binaire de recherche",
                 "partid": "part3",
                 "chapterid": "chapter12",
-                "id": "part3.chapter12.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter12.arbre_supprimer",
+                "shortname": "arbre_supprimer"
             }
         ],
         [
@@ -324,8 +338,8 @@
                 "name": "Rotation gauche",
                 "partid": "part3",
                 "chapterid": "chapter13",
-                "id": "part3.chapter13.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter13.rotation_gauche",
+                "shortname": "rotation_gauche"
             },
             {
                 "name": "Insertion d'un noeud dans un arbre rouge-noir",
@@ -338,22 +352,22 @@
                 "name": "Insertion d'un noeud dans un arbre rouge-noir corrigé",
                 "partid": "part3",
                 "chapterid": "chapter13",
-                "id": "part3.chapter13.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter13.rn_inserer",
+                "shortname": "rn_inserer"
             },
             {
                 "name": "Suppression d'un noeud dans un arbre rouge-noir",
                 "partid": "part3",
                 "chapterid": "chapter13",
-                "id": "part3.chapter13.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter13.rn_supprimer",
+                "shortname": "rn_supprimer"
             },
             {
                 "name": "Suppression d'un noeud dans un arbre rouge-noir corrigé",
                 "partid": "part3",
                 "chapterid": "chapter13",
-                "id": "part3.chapter13.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter13.rn_supprimer_correction",
+                "shortname": "rn_supprimer_correction"
             }
         ],
         [
@@ -361,15 +375,15 @@
                 "name": "Récupérer le rang d'un noeud",
                 "partid": "part3",
                 "chapterid": "chapter14",
-                "id": "part3.chapter14.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter14.recuperer_rang",
+                "shortname": "recuperer_rang"
             },
             {
                 "name": "Déterminer le rang d'un noeud",
                 "partid": "part3",
                 "chapterid": "chapter14",
-                "id": "part3.chapter14.tri",
-                "shortname": "insertionsort"
+                "id": "part3.chapter14.determiner_rang",
+                "shortname": "determiner_rang"
             }
         ]
     ],
@@ -379,78 +393,78 @@
                 "name": "Plus rapide chemin",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.plus_rapide_chemin",
+                "shortname": "plus_rapide_chemin"
             },
             {
                 "name": "Afficher poste",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.afficher_postes",
+                "shortname": "afficher_postes"
             },
             {
                 "name": "Multiplication de matrices",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.multiplier_matrices",
+                "shortname": "multiplier_matrices"
             },
             {
                 "name": "Ordre chaine matrices",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.ordre_chaine_matrices",
+                "shortname": "ordre_chaine_matrices"
             },
             {
                 "name": "Affichage parenthésage optimal",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.affichage_parenthesage_optimal",
+                "shortname": "affichage_parenthesage_optimal"
             },
             {
                 "name": "Chaine matrices recursif",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.chaine_matrices_recursif",
+                "shortname": "chaine_matrices_recursif"
             },
             {
                 "name": "Mémorisation chaine matrices",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.memorisation_chaine_matrices",
+                "shortname": "memorisation_chaine_matrices"
             },
             {
                 "name": "Récupérer chaine",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.recuperer_chaine",
+                "shortname": "recuperer_chaine"
             },
             {
                 "name": "Calcul de la longueur d’une PLS",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.longueur_plsc",
+                "shortname": "longueur_plsc"
             },
             {
                 "name": "Construction d’une PLS",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.imprimer_plsc",
+                "shortname": "imprimer_plsc"
             },
             {
                 "name": "Arbre binaire de recherche optimale",
                 "partid": "part4",
                 "chapterid": "chapter15",
-                "id": "part4.chapter15.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter15.arbre_optimal",
+                "shortname": "arbre_optimal"
             }
         ],
         [
@@ -458,29 +472,29 @@
                 "name": "Choix d'activités récursifs",
                 "partid": "part4",
                 "chapterid": "chapter16",
-                "id": "part4.chapter16.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter16.choix_activite_recursif",
+                "shortname": "choix_activite_recursif"
             },
             {
                 "name": "Choix d'activités glouton",
                 "partid": "part4",
                 "chapterid": "chapter16",
-                "id": "part4.chapter16.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter16.choix_activite_glouton",
+                "shortname": "choix_activite_glouton"
             },
             {
                 "name": "Codage de Huffman",
                 "partid": "part4",
                 "chapterid": "chapter16",
-                "id": "part4.chapter16.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter16.huffman",
+                "shortname": "huffman"
             },
             {
                 "name": "Algorithmes gloutons sur un matroïde pondéré",
                 "partid": "part4",
                 "chapterid": "chapter16",
-                "id": "part4.chapter16.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter16.glouton",
+                "shortname": "glouton"
             }
         ],
         [
@@ -488,22 +502,22 @@
                 "name": "Dépilement multiple de pile",
                 "partid": "part4",
                 "chapterid": "chapter17",
-                "id": "part4.chapter17.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter17.multi_dep",
+                "shortname": "multi_dep"
             },
             {
                 "name": "Incrémentation d’un compteur binaire",
                 "partid": "part4",
                 "chapterid": "chapter17",
-                "id": "part4.chapter17.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter17.incrementer",
+                "shortname": "incrementer"
             },
             {
                 "name": "Insérer une table",
                 "partid": "part4",
                 "chapterid": "chapter17",
-                "id": "part4.chapter17.tri",
-                "shortname": "insertionsort"
+                "id": "part4.chapter17.inserer_table",
+                "shortname": "inserer_table"
             }
         ]
     ],
@@ -513,36 +527,36 @@
                 "name": "Recherche dans un B-Arbre",
                 "partid": "part5",
                 "chapterid": "chapter18",
-                "id": "part5.chapter18.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter18.recherche_b_arbre",
+                "shortname": "recherche_b_arbre"
             },
             {
                 "name": "Création d'un B-Arbre vide",
                 "partid": "part5",
                 "chapterid": "chapter18",
-                "id": "part5.chapter18.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter18.creation_b_arbre",
+                "shortname": "creation_b_arbre"
             },
             {
                 "name": "Partage de nœud dans un B-arbre",
                 "partid": "part5",
                 "chapterid": "chapter18",
-                "id": "part5.chapter18.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter18.partager_enfant_b_arbre",
+                "shortname": "partager_enfant_b_arbre"
             },
             {
                 "name": "Insertion d’une clé dans un B-arbre en une seule passe descendante",
                 "partid": "part5",
                 "chapterid": "chapter18",
-                "id": "part5.chapter18.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter18.inserer_b_arbre",
+                "shortname": "inserer_b_arbre"
             },
             {
                 "name": "Insertion B-arbre incomplet",
                 "partid": "part5",
                 "chapterid": "chapter18",
-                "id": "part5.chapter18.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter18.inserer_b_arbre_incomplet",
+                "shortname": "inserer_b_arbre_incomplet"
             }
         ],
         [
@@ -550,43 +564,43 @@
                 "name": "Trouver la clé minimale d'un tas binominal",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.minimum_tas_binomial",
+                "shortname": "minimum_tas_binomial"
             },
             {
                 "name": "Union de deux tas binominaux",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.lien_binomial",
+                "shortname": "lien_binomial"
             },
             {
                 "name": "Fusion de deux tas binominaux",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.fusionner_tas_binomiaux",
+                "shortname": "fusionner_tas_binomiaux"
             },
             {
                 "name": "Insertion d’un nœud dans un tas binominal",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.tas_binomial_inserer",
+                "shortname": "tas_binomial_inserer"
             },
             {
                 "name": "Extraction du nœud de clé minimale",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.tas_binomial_extraire_min",
+                "shortname": "tas_binomial_extraire_min"
             },
             {
                 "name": "Diminution d’une clé",
                 "partid": "part5",
                 "chapterid": "chapter19",
-                "id": "part5.chapter19.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter19.tas_binomial_diminuer_cle",
+                "shortname": "tas_binomial_diminuer_cle"
             }
         ],
         [
@@ -594,74 +608,623 @@
                 "name": "Insertion d’un nœud dans un tas de Finaboci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.inserer_tas_fib",
+                "shortname": "inserer_tas_fib"
             },
             {
                 "name": "Union de deux tas de Fibonacci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.union_tas_fib",
+                "shortname": "union_tas_fib"
             },
             {
                 "name": "Extraction du nœud minimal",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.extraire_tas_fib",
+                "shortname": "extraire_tas_fib"
             },
             {
                 "name": "Consolider un tas de Finabocci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.consolider",
+                "shortname": "consolider"
             },
             {
                 "name": "Relier tas de Finabocci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.relier_tas_fib",
+                "shortname": "relier_tas_fib"
             },
             {
                 "name": "Diminution d'une clé de tas de Finabocci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.diminuer_cle_tas_fib",
+                "shortname": "diminuer_cle_tas_fib"
             },
             {
                 "name": "Suppression d'une clé de tas de Finabocci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.couper",
+                "shortname": "couper"
             },
             {
                 "name": "Suppression d'une clé de tas de Finabocci en cascade",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.couper_cascade",
+                "shortname": "couper_cascade"
             },
             {
                 "name": "Suppression d'un noeud de tas de Finabocci",
                 "partid": "part5",
                 "chapterid": "chapter20",
-                "id": "part5.chapter20.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter20.supprimer_tas_fib",
+                "shortname": "supprimer_tas_fib"
             }
         ],
         [
             {
-                "name": "Suppression d'un noeud de tas de Finabocci",
+                "name": "Composante connexe",
                 "partid": "part5",
                 "chapterid": "chapter21",
-                "id": "part5.chapter21.tri",
-                "shortname": "insertionsort"
+                "id": "part5.chapter21.composante_connexe",
+                "shortname": "composante_connexe"
+            },
+            {
+                "name": "Même composantes",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.meme_composante",
+                "shortname": "meme_composante"
+            },
+            {
+                "name": "Créer ensemble",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.creer_ensemble",
+                "shortname": "creer_ensemble"
+            },
+            {
+                "name": "Union",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.union",
+                "shortname": "union"
+            },
+            {
+                "name": "Lier",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.lier",
+                "shortname": "lier"
+            },
+            {
+                "name": "Trouver ensemble",
+                "partid": "part5",
+                "chapterid": "chapter21",
+                "id": "part5.chapter21.trouver_ensemble",
+                "shortname": "trouver_ensemble"
             }
         ]
-    ]
+    ],
+    [
+        [
+            {
+                "name": "Parcours en largeur",
+                "partid": "part6",
+                "chapterid": "chapter22",
+                "id": "part6.chapter22.parcours_largeur",
+                "shortname": "parcours_largeur"
+            },
+            {
+                "name": "Imprimer chemin",
+                "partid": "part6",
+                "chapterid": "chapter22",
+                "id": "part6.chapter22.imprimer_chemin",
+                "shortname": "imprimer_chemin"
+            },
+            {
+                "name": "Parcours en profondeur",
+                "partid": "part6",
+                "chapterid": "chapter22",
+                "id": "part6.chapter22.parcours_profondeur",
+                "shortname": "parcours_profondeur"
+            },
+            {
+                "name": "Visiter",
+                "partid": "part6",
+                "chapterid": "chapter22",
+                "id": "part6.chapter22.visiter_pp",
+                "shortname": "visiter_pp"
+            },
+            {
+                "name": "Composantes fortement connexe",
+                "partid": "part6",
+                "chapterid": "chapter22",
+                "id": "part6.chapter22.composante_fortement_connexe",
+                "shortname": "composante_fortement_connexe"
+            }
+        ],
+        [
+            {
+                "name": "Construction d'un arbre couvrant minimum",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.acm_generique",
+                "shortname": "acm_generique"
+            },
+            {
+                "name": "Construction d'un arbre couvrant minimum (Kruskal)",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.acm_kruskal",
+                "shortname": "acm_kruskal"
+            },
+            {
+                "name": "Construction d'un arbre couvrant minimum (Prim)",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.acm_prim",
+                "shortname": "acm_prim"
+            },
+            {
+                "name": "Réduction d'un arbre couvrant minimum",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.acm_reduire",
+                "shortname": "acm_reduire"
+            },
+            {
+                "name": "Peut être arbre couvrant minimum A",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.peut_etre_acm_a",
+                "shortname": "peut_etre_acm_a"
+            },
+            {
+                "name": "Peut être arbre couvrant minimum B",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.peut_etre_acm_b",
+                "shortname": "peut_etre_acm_b"
+            },
+            {
+                "name": "Peut être arbre couvrant minimum C",
+                "partid": "part6",
+                "chapterid": "chapter23",
+                "id": "part6.chapter23.peut_etre_acm_c",
+                "shortname": "peut_etre_acm_c"
+            }
+        ],
+        [
+            {
+                "name": "Source unique initialisation",
+                "partid": "part6",
+                "chapterid": "chapter24",
+                "id": "part6.chapter24.source_unique_initialisation",
+                "shortname": "source_unique_initialisation"
+            },
+            {
+                "name": "Relâcher",
+                "partid": "part6",
+                "chapterid": "chapter24",
+                "id": "part6.chapter24.relacher",
+                "shortname": "relacher"
+            },
+            {
+                "name": "Algorithme de Bellman-Ford",
+                "partid": "part6",
+                "chapterid": "chapter24",
+                "id": "part6.chapter24.bellman_ford",
+                "shortname": "bellman_ford"
+            },
+            {
+                "name": "Plus court chemin des graphes sans circuit",
+                "partid": "part6",
+                "chapterid": "chapter24",
+                "id": "part6.chapter24.plus_court_chemin_gss",
+                "shortname": "plus_court_chemin_gss"
+            },
+            {
+                "name": "Algorithme de Dijkstra",
+                "partid": "part6",
+                "chapterid": "chapter24",
+                "id": "part6.chapter24.dijkstra",
+                "shortname": "dijkstra"
+            }
+        ],
+        [
+            {
+                "name": "Plus courts chemins pour tout couple de sommets",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.imprimer_plus_court_chemin_tout_couple",
+                "shortname": "imprimer_plus_court_chemin_tout_couple"
+            },
+            {
+                "name": "Plus courts chemins pour tout couple de sommets (Extension)",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.extension_plus_court_chemin",
+                "shortname": "extension_plus_court_chemin"
+            },
+            {
+                "name": "Multiplier matrices",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.multiplier_matrices",
+                "shortname": "multiplier_matrices"
+            },
+            {
+                "name": "Plus courts chemins pour tout couple ralenti",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.plus_court_chemin_tout_couple_ralenti",
+                "shortname": "plus_court_chemin_tout_couple_ralenti"
+            },
+            {
+                "name": "Plus courts chemins pour tout couple accéléré",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.plus_court_chemin_tout_couple_accelere",
+                "shortname": "plus_court_chemin_tout_couple_accelere"
+            },
+            {
+                "name": "Algorithme de Floyd-Warshall",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.floyd_warshall",
+                "shortname": "floyd_warshall"
+            },
+            {
+                "name": "Fermeture transitive",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.fermeture_transitive",
+                "shortname": "fermeture_transitive"
+            },
+            {
+                "name": "Algorithme de Johnson",
+                "partid": "part6",
+                "chapterid": "chapter25",
+                "id": "part6.chapter25.johnson",
+                "shortname": "johnson"
+            }
+        ],
+        [
+            {
+                "name": "Méthode de Ford-Fulkerson",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.methode_ford_fulkerson",
+                "shortname": "methode_ford_fulkerson"
+            },
+            {
+                "name": "Méthode de Ford-Fulkerson étendue",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.ford_fulkerson",
+                "shortname": "ford_fulkerson"
+            },
+            {
+                "name": "Pousser",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.pousser",
+                "shortname": "pousser"
+            },
+            {
+                "name": "Reétiqueter",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.reetiqueter",
+                "shortname": "reetiqueter"
+            },
+            {
+                "name": "Initialiser préflot",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.initialiser_preflot",
+                "shortname": "initialiser_preflot"
+            },
+            {
+                "name": "Préflot générique",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.preflot_generique",
+                "shortname": "preflot_generique"
+            },
+            {
+                "name": "Décharger",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.decharger",
+                "shortname": "decharger"
+            },
+            {
+                "name": "Reétiqueter vers l'avant",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.reetiqueter_avant",
+                "shortname": "reetiqueter_avant"
+            },
+            {
+                "name": "Flot maximum et échelonnement",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.flot_max_echelonnement",
+                "shortname": "flot_max_echelonnement"
+            },
+            {
+                "name": "Algorithme de Hopcroft-Karp",
+                "partid": "part6",
+                "chapterid": "chapter26",
+                "id": "part6.chapter26.hopcroft_karp",
+                "shortname": "hopcroft_karp"
+            }
+        ]
+    ],
+    [
+        [],
+        [
+            {
+                "name": "Résolution LUP",
+                "partid": "part7",
+                "chapterid": "chapter28",
+                "id": "part7.chapter28.resolution_lup",
+                "shortname": "resolution_lup"
+            },
+            {
+                "name": "Décomposition LU",
+                "partid": "part7",
+                "chapterid": "chapter28",
+                "id": "part7.chapter28.decomposotion_lu",
+                "shortname": "decomposotion_lu"
+            },
+            {
+                "name": "Décomposition LUP",
+                "partid": "part7",
+                "chapterid": "chapter28",
+                "id": "part7.chapter28.decomposotion_lup",
+                "shortname": "decomposotion_lup"
+            }
+        ],
+        [
+            {
+                "name": "Pivot",
+                "partid": "part7",
+                "chapterid": "chapter29",
+                "id": "part7.chapter29.pivot",
+                "shortname": "pivot"
+            },
+            {
+                "name": "Simplexe",
+                "partid": "part7",
+                "chapterid": "chapter29",
+                "id": "part7.chapter29.simplexe",
+                "shortname": "simplexe"
+            },
+            {
+                "name": "Initialiser simplexe",
+                "partid": "part7",
+                "chapterid": "chapter29",
+                "id": "part7.chapter29.initialise_simplexe",
+                "shortname": "initialise_simplexe"
+            }
+        ],
+        [
+            {
+                "name": "Transformation rapide  récursive de Fourier",
+                "partid": "part7",
+                "chapterid": "chapter30",
+                "id": "part7.chapter30.fft_recursive",
+                "shortname": "fft_recursive"
+            },
+            {
+                "name": "Transformation rapide itérative de Fourier",
+                "partid": "part7",
+                "chapterid": "chapter30",
+                "id": "part7.chapter30.fft_iterative",
+                "shortname": "fft_iterative"
+            },
+            {
+                "name": "Copie inversion de Bits",
+                "partid": "part7",
+                "chapterid": "chapter30",
+                "id": "part7.chapter30.copie_inversion_bits",
+                "shortname": "copie_inversion_bits"
+            }
+        ],
+        [
+            {
+                "name": "Algorithme d’Euclide",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.eclude",
+                "shortname": "eclude"
+            },
+            {
+                "name": "Algorithme d’Euclide  étendue",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.eclude_etendue",
+                "shortname": "eclude_etendue"
+            },
+            {
+                "name": "Résolution d'équation linéaire modulaire",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.resolution_equation_lineaire_modulaire",
+                "shortname": "resolution_equation_lineaire_modulaire"
+            },
+            {
+                "name": "Exponentiation modulaire",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.exponentiation_modulaire",
+                "shortname": "exponentiation_modulaire"
+            },
+            {
+                "name": "Algorithme de pseudo-primarité",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.pseudo_premier",
+                "shortname": "pseudo_premier"
+            },
+            {
+                "name": "Témoins",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.temoins",
+                "shortname": "temoins"
+            },
+            {
+                "name": " Test de primarité randomisé de Miller-Rabin",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.miller_rabin",
+                "shortname": "miller_rabin"
+            },
+            {
+                "name": "Heuristique rho de Pollard",
+                "partid": "part7",
+                "chapterid": "chapter31",
+                "id": "part7.chapter31.pollard_rho",
+                "shortname": "pollard_rho"
+            }
+        ],
+        [
+            {
+                "name": "Recherche naïve",
+                "partid": "part7",
+                "chapterid": "chapter32",
+                "id": "part7.chapter32.recherche_naive",
+                "shortname": "recherche_naive"
+            },
+            {
+                "name": "Algorithme de Rabin-Karp",
+                "partid": "part7",
+                "chapterid": "chapter32",
+                "id": "part7.chapter32.rabin_karp",
+                "shortname": "rabin_karp"
+            },
+            {
+                "name": "Recherche au moyen d'automate finis",
+                "partid": "part7",
+                "chapterid": "chapter32",
+                "id": "part7.chapter32.recherche_automate_fini",
+                "shortname": "recherche_automate_fini"
+            },
+            {
+                "name": "Calcul de la fonction de transition",
+                "partid": "part7",
+                "chapterid": "chapter32",
+                "id": "part7.chapter32.calcul_fonction_transition",
+                "shortname": "calcul_fonction_transition"
+            },
+            {
+                "name": "Calcul de fonction préfixe",
+                "partid": "part7",
+                "chapterid": "chapter32",
+                "id": "part7.chapter32.calcul_fonction_prefixe",
+                "shortname": "calcul_fonction_prefixe"
+            }
+        ],
+        [
+            {
+                "name": "Intersection de segments",
+                "partid": "part7",
+                "chapterid": "chapter33",
+                "id": "part7.chapter33.intersection_segment",
+                "shortname": "intersection_segment"
+            },
+            {
+                "name": "Direction",
+                "partid": "part7",
+                "chapterid": "chapter33",
+                "id": "part7.chapter33.direction",
+                "shortname": "direction"
+            },
+            {
+                "name": "Sur segement",
+                "partid": "part7",
+                "chapterid": "chapter33",
+                "id": "part7.chapter33.sur_segment",
+                "shortname": "sur_segment"
+            },
+            {
+                "name": "Intersection de segment quelconques",
+                "partid": "part7",
+                "chapterid": "chapter33",
+                "id": "part7.chapter33.intersection_deux_segment_quelconques",
+                "shortname": "intersection_deux_segment_quelconques"
+            },
+            {
+                "name": "Balayage Graham",
+                "partid": "part7",
+                "chapterid": "chapter33",
+                "id": "part7.chapter33.balayage_graham",
+                "shortname": "balayage_graham"
+            }
+        ],
+        [],
+        [
+            {
+                "name": "Couverture de sommets approchées",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.couverture_sommet_approchee",
+                "shortname": "couverture_sommet_approchee"
+            },
+            {
+                "name": "Tournée Voyageur du commerce approchée",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.tournee_vc_approchee",
+                "shortname": "tournee_vc_approchee"
+            },
+            {
+                "name": "Couverture ensemble glouton",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.couverture_ensemble_glouton",
+                "shortname": "couverture_ensemble_glouton"
+            },
+            {
+                "name": "Couverture sommet pondéré approchée",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.couverture_sommet_pondere_approchee",
+                "shortname": "couverture_sommet_pondere_approchee"
+            },
+            {
+                "name": "Somme exacte sous-ensemble",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.somme_exacte_sous_ensemble",
+                "shortname": "somme_exacte_sous_ensemble"
+            },
+            {
+                "name": "Epurér",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.epurer",
+                "shortname": "epurer"
+            },
+            {
+                "name": "Somme exacte sous-ensemble approchée",
+                "partid": "part7",
+                "chapterid": "chapter35",
+                "id": "part7.chapter35.somme_sous_ensemble_approchee",
+                "shortname": "somme_sous_ensemble_approchee"
+            }
+        ]
+    ],
+    []
 ]
