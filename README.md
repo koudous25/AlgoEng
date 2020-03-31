@@ -3,7 +3,7 @@
 ![AlgoEng-brand](/public/AlgoEng-Brand.png)
 
 <p align="center">
-  <img width="600" height="200" src="https://www.python.org/python-.png">
+  <img width="600" height="200" src="/public/AlgoEng-Brand.png">
 </p>
 Les algorithmes comme outils de l'ingénieur.
 
