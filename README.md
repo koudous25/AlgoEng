@@ -1,9 +1,7 @@
 # AlgoEng
 
-![AlgoEng-brand](/public/AlgoEng-Brand.png)
-
 <p align="center">
-  <img width="600" height="200" src="./public/AlgoEng-Brand.png">
+  <img  src="./public/AlgoEng-Brand.png">
 </p>
 
 Les algorithmes comme outils de l'ingénieur.

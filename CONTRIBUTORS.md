@@ -1,3 +1,9 @@
+# AlgoEng
+
+<p align="center">
+  <img  src="./public/AlgoEng-Brand.png">
+</p>
+
 # Intro
 
 Ce projet est le resultat du travail acharné des personnes citées ci-dessous selon leurs équipes de travail.
