@@ -1,6 +1,6 @@
 # AlgoEng
 
-! [AlgoEng-brand](/public/AlgoEng-Brand.png)
+![AlgoEng-brand](/public/AlgoEng-Brand.png)
 
 Les algorithmes comme outils de l'ingénieur.
 
