@@ -1,3 +1,10 @@
+/**
+ * @file Routing system for vue app
+ * @author Justin Dah-kenangnon <dah.kenangnon@gmail.com>
+ * @copyright EnsgmmBj's community
+ * @license MIT
+ */
+
 //Required module
 import Vue from "vue";
 import Router from "vue-router";

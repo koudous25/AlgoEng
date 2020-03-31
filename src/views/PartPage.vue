@@ -15,9 +15,9 @@
             </v-col>
           </v-row>
           <v-list-item :key="item.id" link @click="renderChapter(i)">
-            <v-list-item-action>
+            <!-- <v-list-item-action>
               <v-icon>{{ item.icon }}</v-icon>
-            </v-list-item-action>
+            </v-list-item-action>-->
             <v-list-item-content>
               <v-list-item-title>{{ item.name }}</v-list-item-title>
             </v-list-item-content>
@@ -38,13 +38,13 @@
     <v-content>
       <v-container class="fill-height main-container" fluid>
         <v-container>
-          <v-card color="grey lighten-4" flat height="100px" tile>
+          <v-card color="grey lighten-4" flat height="200px" tile align="center">
             <v-toolbar dense>
               <v-app-bar-nav-icon>
                 <router-link :to="{name: 'home' }">
-                <v-icon>mdi-arrow-left</v-icon>
+                  <v-icon>mdi-arrow-left</v-icon>
                 </router-link>
-                </v-app-bar-nav-icon>
+              </v-app-bar-nav-icon>
 
               <v-toolbar-title>{{chaptername}}</v-toolbar-title>
 

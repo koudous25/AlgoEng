@@ -1,3 +1,10 @@
+/**
+ * @file Register vue plugins
+ * @author Justin Dah-kenangnon <dah.kenangnon@gmail.com>
+ * @copyright EnsgmmBj's community
+ * @license MIT
+ */
+
 import Vue from "vue";
 import Vuetify from "vuetify/lib";
 import "@mdi/font/css/materialdesignicons.css"; // Ensure you are using css-loader
