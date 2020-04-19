@@ -10,7 +10,7 @@
 import path from "path";
 import { app, protocol, BrowserWindow } from "electron";
 import {
-  createProtocol
+  createProtocol,
   /* installVueDevtools */
 } from "vue-cli-plugin-electron-builder/lib";
 
@@ -23,7 +23,7 @@ let win;
 
 // Scheme must be registered before the app is ready
 protocol.registerSchemesAsPrivileged([
-  { scheme: "app", privileges: { secure: true, standard: true } }
+  { scheme: "app", privileges: { secure: true, standard: true } },
 ]);
 
 function createWindow() {
@@ -40,8 +40,8 @@ function createWindow() {
     backgroundColor: "#009688",
     title: "AlgoEng",
     webPreferences: {
-      nodeIntegration: true
-    }
+      nodeIntegration: true,
+    },
   });
 
   if (process.env.WEBPACK_DEV_SERVER_URL) {
@@ -70,19 +70,19 @@ function updateMe() {
     console.log("Checking for update");
   });
 
-  autoUpdater.on("error", error => {
+  autoUpdater.on("error", (error) => {
     console.error("Error while checking for updates", error);
   });
 
-  autoUpdater.on("update-available", updateInfo => {
+  autoUpdater.on("update-available", (updateInfo) => {
     alert("Mise à jour disponible: ", updateInfo);
   });
 
-  autoUpdater.on("update-not-available", updateInfo => {
+  autoUpdater.on("update-not-available", (updateInfo) => {
     console.log("No updates are available", updateInfo);
   });
 
-  autoUpdater.on("update-downloaded", updateInfo => {
+  autoUpdater.on("update-downloaded", (updateInfo) => {
     alert(
       "Redémarrage nécessaire pour installer les mise à jour: ",
       updateInfo
@@ -122,13 +122,15 @@ app.on("activate", () => {
 // Some APIs can only be used after this event occurs.
 app.on("ready", () => {
   createWindow();
-  updateMe();
+  if (!isDevelopment) {
+    updateMe();
+  }
 });
 
 // Exit cleanly on request from parent process in development mode.
 if (isDevelopment) {
   if (process.platform === "win32") {
-    process.on("message", data => {
+    process.on("message", (data) => {
       if (data === "graceful-exit") {
         app.quit();
       }
